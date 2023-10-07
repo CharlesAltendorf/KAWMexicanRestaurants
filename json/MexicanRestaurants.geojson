@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "MexicanRestaurants",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "EL Patio" }, "geometry": { "type": "Point", "coordinates": [ -84.456684986981287, 38.009485509744167 ] } },
+{ "type": "Feature", "properties": { "Name": "Viva Mexico" }, "geometry": { "type": "Point", "coordinates": [ -84.455964564147834, 38.011502860815263 ] } },
+{ "type": "Feature", "properties": { "Name": "El Jefe" }, "geometry": { "type": "Point", "coordinates": [ -84.461041598034967, 38.01581351620051 ] } },
+{ "type": "Feature", "properties": { "Name": "Durango's" }, "geometry": { "type": "Point", "coordinates": [ -84.465140219830744, 38.019103863662245 ] } }
+]
+}
